@@ -1,6 +1,6 @@
-<h1>My name is Kimlee, and I am an aspiring <a href="https://www.linkedin.com/in/kimlee-heng/">IT professional</a>☺👋 </h1>
+# About me
 
-<h2>👨‍💻Information Technology Projects:</h2>
+I'm an aspiring IT professional with a keen interest in cybersecurity. I'm currently building my foundations in IT skills and fundamentals during my free time while pursuing my studies at Middlesex Community College, and I plan on transferring to the University of Massachusetts Lowell to obtain my Bachelors in Computer Science.
 <!--
 **KimleeHeng/KimleeHeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
