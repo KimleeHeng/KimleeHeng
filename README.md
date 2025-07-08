@@ -1,4 +1,4 @@
-## My name is Kimlee, and I am an aspiring IT professional 👋
+<h1>My name is Kimlee, and I am an aspiring <a href="https://www.linkedin.com/in/kimlee-heng/">IT professional</a>☺👋 </h1>
 
 <!--
 **KimleeHeng/KimleeHeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
