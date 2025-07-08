@@ -1,4 +1,4 @@
-## Hi there. My name is Kimlee, and I am an aspiring IT professional 👋
+## My name is Kimlee, and I am an aspiring IT professional 👋
 
 <!--
 **KimleeHeng/KimleeHeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
