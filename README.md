@@ -5,7 +5,7 @@ I'm an aspiring IT professional with a keen interest in cybersecurity. I'm curre
 <h2> Information Technology Projects: </h2>
 
 - <b>Microsoft Azure</b>
-  - [Network Protocol Inspection in Azure Virtual Environments](https://github.com)
+  - [Network Protocol Inspection in Azure Virtual Environments](https://github.com](https://github.com/KimleeHeng/azure-network-protocols/tree/main))
   - [Configuring Active Directory within Azure Virtual Environments](https://github.com)
 - <b>osTicket</b>
   - [osTicket: Prerequisites and Installation](https://github.com)
