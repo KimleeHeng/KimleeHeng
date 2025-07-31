@@ -4,8 +4,13 @@ I'm an aspiring IT professional with a keen interest in cybersecurity. I'm curre
 
 <h2> Information Technology Projects: </h2>
 
-- <b>Microsoft Azure: Compute and Networking </b>
+- <b>Microsoft Azure: Compute and Networking</b>
   - [Network Protocol Inspection in Azure Virtual Environments](https://github.com/KimleeHeng/azure-network-protocols)
+ 
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequsites and Installation](https://github.com/KimleeHeng/azure-network-protocols)
+  - [osTicket: Post-Installation Configurations](https://github.com/KimleeHeng/azure-network-protocols)
+  - [osTicket: Ticket Lifestyle Examples](https://github.com/KimleeHeng/azure-network-protocols)
 
 
 <!--- <b>Microsoft Azure: Active Directory </b>
