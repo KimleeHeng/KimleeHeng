@@ -8,9 +8,7 @@ I'm an aspiring IT professional with a keen interest in cybersecurity. I'm curre
   - [Network Protocol Inspection in Azure Virtual Environments](https://github.com/KimleeHeng/azure-network-protocols)
  
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequsites and Installation](https://github.com/KimleeHeng/azure-network-protocols)
-  - [osTicket: Post-Installation Configurations](https://github.com/KimleeHeng/azure-network-protocols)
-  - [osTicket: Ticket Lifestyle Examples](https://github.com/KimleeHeng/azure-network-protocols)
+  - [osTicket: Installation, Configuration, and Ticket Workflow](https://github.com/KimleeHeng/osticket-instructions)
 
 
 <!--- <b>Microsoft Azure: Active Directory </b>
