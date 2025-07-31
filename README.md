@@ -1,6 +1,6 @@
 # About me
 
-I'm an aspiring IT professional with a keen interest in cybersecurity. I'm currently building my foundations in IT skills such as networking, operating systems, and troubleshooting during my free time while pursuing my studies at Middlesex Community College. I plan on transferring to the University of Massachusetts Lowell to obtain my Bachelors in Computer Science.
+I'm an aspiring IT professional with a keen interest in cybersecurity. I'm currently building my foundations in IT skills such as networking, operating systems, and troubleshooting during my free time while pursuing my studies at Middlesex Community College. I plan on transferring to the University of Massachusetts Lowell to obtain my Bachelors in Computer Science with a focus in cybersecurity.
 
 <h2> Information Technology Projects: </h2>
 
